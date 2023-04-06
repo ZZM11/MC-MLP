@@ -3,6 +3,7 @@ In deep learning, Multi-Layer Perceptrons (MLPs) have once again garnered attent
 
 ![image](https://user-images.githubusercontent.com/63572595/230283882-963083fc-c8cb-49d2-ae48-86bd92f7e17d.png)
 
+# result
 |arch | Model     | Params     | GMAC     | Top-1(%)|
 |--------| -------- | -------- | -------- |---------|
 |CNN| ResNet-50 | 25.6 | 4.1 |75.1|
