@@ -16,9 +16,12 @@ In deep learning, Multi-Layer Perceptrons (MLPs) have once again garnered attent
 |MLP|gMLP	|24.5	|5.56|	64.80|
 |MLP|MC-MLP(ours)|	24.1	|6.0|	77.60|
 
+
 # Ablation Study
 |Model |MC-Block |Top-1(%)|
+|--------| -------- | -------- |
 |MC-MLP-D| DCT Mixer + DCT Mixer |76.40|
 |MC-MLP-H |Hadamard Mixer + Hadamard Mixer| 75.51|
 |MC-MLP |DCT Mixer + Hadamard Mixer| 77.60|
+
 The code will be open source in the near future.
