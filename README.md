@@ -25,3 +25,5 @@ In deep learning, Multi-Layer Perceptrons (MLPs) have once again garnered attent
 |MC-MLP |DCT Mixer + Hadamard Mixer| 77.60|
 
 The code will be open source in the near future.
+
+The code library was developed based on Timm.
